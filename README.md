@@ -5,18 +5,16 @@
 
 Program zawiera:
 - ✅ Wyliczanie rozmiaru grafu
-- ❌ Metrykę w zbiorze wszystkich grafów
-- ❌ Wyliczanie maksymalnego cyklu w grafie
-- ❌ Wyliczanie liczby maksymalnych cykli
-- ❌ Wyliczanie minimalnego rozszerzenie grafu do grafu zawierającego cykl Hamiltona
-- ❌ Wyliczanie liczby cykli Hamiltona
+- ✅ Metrykę w zbiorze wszystkich grafów
+- ✅ Wyliczanie maksymalnego cyklu w grafie
+- ✅ Wyliczanie liczby maksymalnych cykli
 
 Sprawozdanie zawiera:
-- ❌ Opisy/definicje powyższych pojęć z uzasadnieniami/dowodami. Opisy mogą być przygotowane na podstawie literatury (wówczas należy przytoczyć źródło i podać krótkie uzasadnienie) lub opracowane autorsko (wówczas wskazane jest krótkie uzasadnienie przyjętej definicji)
-- ❌ Opisy algorytmów implementacji pojęć z uzasadnieniem złożoności obliczeniowej. W przypadku wykładniczej złożoności algorytmu dokładnego należy opracować algorytm aproksymujący o złożoności wielomianowej
-- ❌ Wyniki testów obliczeniowych z charakterystykami czasowymi ("czas" obliczeń w zależności od rozmiaru zadania).
-- ❌ Krótki opis techniczny programu z dokładną instrukcją kompilacji i uruchomienia programu
-- ❌ Wnioski
+- ✅ Opisy/definicje powyższych pojęć z uzasadnieniami/dowodami. Opisy mogą być przygotowane na podstawie literatury (wówczas należy przytoczyć źródło i podać krótkie uzasadnienie) lub opracowane autorsko (wówczas wskazane jest krótkie uzasadnienie przyjętej definicji)
+- ✅ Opisy algorytmów implementacji pojęć z uzasadnieniem złożoności obliczeniowej. W przypadku wykładniczej złożoności algorytmu dokładnego należy opracować algorytm aproksymujący o złożoności wielomianowej
+- ✅ Wyniki testów obliczeniowych z charakterystykami czasowymi ("czas" obliczeń w zależności od rozmiaru zadania).
+- ✅ Krótki opis techniczny programu z dokładną instrukcją kompilacji i uruchomienia programu
+- ✅ Wnioski
 
 ## Dane wejściowe
 Pliki tekstowe zawierające opisy grafów (jednego lub więcej) oddzielone pustą linią. Pierwszy wiersz pliku zawiera liczbę grafów zapisanych w pliku. Od drugiego wiersza zapisane są opisy grafów:
